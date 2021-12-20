@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Giovanni Minor
 Created on Mon Nov 22 16:46:54 2021
@@ -9,7 +8,7 @@ Created on Mon Nov 22 16:46:54 2021
 from deck import Deck 
 from hand import Hand
 #starting chips
-chips = 100
+chips = 200
 
 while True:
     print("You have this many chips", chips)
